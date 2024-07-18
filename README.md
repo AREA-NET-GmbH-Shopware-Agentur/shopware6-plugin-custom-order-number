@@ -1,1 +1,1 @@
-# shopware6-plugin-custom-order-number
+# Shpware 6 plugin: Sales order number
